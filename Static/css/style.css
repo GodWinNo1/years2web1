@@ -1,0 +1,26 @@
+body{
+    font-size: large; 
+    font-family: khmer os muol light; 
+    color: red;
+}
+
+p{
+    color: blueviolet;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 3, 3);
+}
+.mm img {
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+}
+.md {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
